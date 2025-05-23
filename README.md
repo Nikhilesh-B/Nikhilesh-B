@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nikhilesh 👋
 
 <!--
-**Nikhilesh-B/Nikhilesh-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science graduate from Columbia University and will be starting my master's at MIT. I enjoy working on projects that sit at the intersection of software, machine learning, and real-world impact.
 
-Here are some ideas to get you started:
+## 💻 Current Projects
+- **ML + Finance**: Exploring trading strategies and predictive modeling through competitions and personal research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🕓 Past Projects
+- **Supportify** (2023–2024): Developed a voice automation tool for nonprofits and political campaigns, combining speech-to-text, LLMs, and text-to-speech to streamline outbound calling.
+
+## 🔍 Areas of Interest
+- Applied Machine Learning  
+- Quantitative Research  
+- Tech for Social Impact
+
+## 📬 Contact
+- Email: [Your Email]  
+- Website/LinkedIn: [Your Link]
+
+Thanks for visiting!
 -->
