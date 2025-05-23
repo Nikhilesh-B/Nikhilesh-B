@@ -1,6 +1,5 @@
 # Hi, I'm Nikhilesh 👋
 
-<!--
 I'm a computer science graduate from Columbia University and will be starting my master's at MIT. I enjoy working on projects that sit at the intersection of software, machine learning, and real-world impact.
 
 ## 💻 Current Projects
@@ -15,8 +14,7 @@ I'm a computer science graduate from Columbia University and will be starting my
 - Tech for Social Impact
 
 ## 📬 Contact
-- Email: [Your Email]  
-- Website/LinkedIn: [Your Link]
+- Email: [nikhibel@mit.edu]  
+- Website/LinkedIn: [https://www.linkedin.com/in/nikhilesh-belulkar/]
 
 Thanks for visiting!
--->
