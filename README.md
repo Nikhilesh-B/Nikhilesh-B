@@ -1,6 +1,6 @@
 # Hi, I'm Nikhilesh 👋
 
-I'm a computer science graduate from Columbia University and will be starting my master's at MIT. I enjoy working on projects that sit at the intersection of software, machine learning, and real-world impact.
+I'm a computer science graduate from Columbia University and will be starting my master's at MIT. I enjoy working on projects that utilize machine learning for real world impact. 
 
 ## 💻 Current Projects
 - **ML + Finance**: Exploring trading strategies and predictive modeling through competitions such as Kaggle and WorldQuant Brain as well as personal research.
